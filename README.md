@@ -23,14 +23,13 @@ I recently released **[GentisAI](https://github.com/GhaouiYoussef/GentisAI)** (v
 
 ---
 
-### 🔭 **Featured Projects**
+### 🔭 **Featured Public Projects**
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **[GentisAI](https://github.com/GhaouiYoussef/GentisAI)** | 🌟 **New Framework** for building modular, scalable AI agents. | `Python` `AI Framework` |
 | **[Ollama Recruiter Agent](https://github.com/GhaouiYoussef/Ollama-Local-Recruiter-Agent)** | Privacy-first local recruiter agent. Screens & ranks candidates on-device. | `Ollama` `Local LLM` |
 | **[Lead Gen Expert](https://github.com/GhaouiYoussef/Lablab.ai-LeadGenerationExpert)** | Multi-agent debate system for lead qualification & scoring. | `IBM Granite` `Multi-Agent` |
-| **[OSHA Chatbot](https://github.com/GhaouiYoussef/OSHA_GOSI-ChatBot)** | Production-ready RAG chatbot for safety compliance. | `RAG` `Q-LoRA` `Docker` |
 | **[Auto-Investor](https://github.com/GhaouiYoussef/Auto-Investor)** | Automated crypto trading bot with statistical & neural forecasting. | `RNN` `BERT` `Binance API` |
 
 ---
@@ -42,25 +41,14 @@ I recently released **[GentisAI](https://github.com/GhaouiYoussef/GentisAI)** (v
 
 ---
 
-### 🌐 **Portfolio Highlight**
-
-[![Portfolio Preview](https://raw.githubusercontent.com/GhaouiYoussef/Professional-Portfolio/master/portfolio-preview.png)](https://github.com/GhaouiYoussef/Professional-Portfolio)
-
-I've built a comprehensive **[Professional Portfolio](https://github.com/GhaouiYoussef/Professional-Portfolio)** to showcase my journey in Agentic AI.
-*   **Interactive Projects Carousel**: Explore my work in AI, ML, and Engineering.
-*   **Agentic AI Showcase**: Dedicated sections for frameworks like GentisAI.
-*   **Responsive Design**: Optimized experience across all devices.
-
----
-
 ### 📊 **GitHub Stats**
 
 <div align="center">
-  <!-- Trophies -->
+  <!-- Trophies
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=GhaouiYoussef&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
   </a>
-  <br/>
+  <br/> -->
   
   <!-- General Stats & Top Langs -->
   <img src="https://github-readme-stats.vercel.app/api?username=GhaouiYoussef&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Youssef's GitHub Stats" />
