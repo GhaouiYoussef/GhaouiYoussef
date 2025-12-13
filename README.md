@@ -7,6 +7,15 @@ I build **intelligent agentic systems** that plan, use tools, and coordinate mul
 ---
 
 ### 🚀 **New Release: GentisAI Framework**
+
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset=".github/imgs/GentisAI-B-banner-r.svg">
+      <source media="(prefers-color-scheme: dark)" srcset=".github/imgs/GentisAI-B-banner-r.svg">
+      <img alt="GentisAI-B-banner-r" src=".github/imgs/GentisAI-B-banner-r.svg" width="80%">
+    </picture>
+</div>
+
 I recently released **[GentisAI](https://github.com/GhaouiYoussef/GentisAI)** (v0.1), a modular framework designed to streamline the development of intelligent agents and LLM applications.
 > *Build intelligent agents and LLM apps faster with a scalable architecture.*
 
