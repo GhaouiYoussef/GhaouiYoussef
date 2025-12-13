@@ -42,11 +42,33 @@ I recently released **[GentisAI](https://github.com/GhaouiYoussef/GentisAI)** (v
 
 ---
 
+### 🌐 **Portfolio Highlight**
+
+[![Portfolio Preview](https://raw.githubusercontent.com/GhaouiYoussef/Professional-Portfolio/master/portfolio-preview.png)](https://github.com/GhaouiYoussef/Professional-Portfolio)
+
+I've built a comprehensive **[Professional Portfolio](https://github.com/GhaouiYoussef/Professional-Portfolio)** to showcase my journey in Agentic AI.
+*   **Interactive Projects Carousel**: Explore my work in AI, ML, and Engineering.
+*   **Agentic AI Showcase**: Dedicated sections for frameworks like GentisAI.
+*   **Responsive Design**: Optimized experience across all devices.
+
+---
+
 ### 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GhaouiYoussef&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Youssef's GitHub Stats" />
+  <!-- Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=GhaouiYoussef&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  </a>
+  <br/>
+  
+  <!-- General Stats & Top Langs -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GhaouiYoussef&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Youssef's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhaouiYoussef&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  
+  <!-- Streak Stats -->
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhaouiYoussef&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
@@ -55,12 +77,15 @@ I recently released **[GentisAI](https://github.com/GhaouiYoussef/GentisAI)** (v
 
 <div align="center">
   <a href="https://www.linkedin.com/in/youssef-ghaoui-3a82a222a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:youssefghaoui.pro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://medium.com/@youssef.ghaoui">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://github.com/GhaouiYoussef/Professional-Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=flat-square&logo=react&logoColor=white" alt="Portfolio" />
   </a>
 </div>
