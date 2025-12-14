@@ -82,7 +82,7 @@ I recently released **[GentisAI](https://github.com/GhaouiYoussef/GentisAI)** (v
   <a href="https://medium.com/@youssef.ghaoui">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://github.com/GhaouiYoussef/Professional-Portfolio">
+  <a href="https://youssef-ghaoui-professional-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=flat-square&logo=react&logoColor=white" alt="Portfolio" />
   </a>
 </div>
