@@ -61,12 +61,12 @@ I recently released **[GentisAI](https://github.com/GhaouiYoussef/GentisAI)** (v
   
   <!-- General Stats & Top Langs -->
   <img src="https://github-readme-stats.vercel.app/api?username=GhaouiYoussef&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Youssef's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhaouiYoussef&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=false&alias=jupyter%20notebook:python" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhaouiYoussef&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
   
   <!-- Streak Stats
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhaouiYoussef&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhaouiYoussef&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" /> -->
+</div>
 
 ---
 
