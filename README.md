@@ -1,6 +1,6 @@
 # Hi there, I'm Youssef Ghaoui 👋
 
-## 🤖 AI Engineer | LLM Architect | Open Source Contributor | Top 1% AI practitioner on Zindi
+## 🤖 AI Engineer | LLM Architect | OS Contributor | Top 1% AI practitioner on Zindi
 
 I build **intelligent agentic systems** that plan, use tools, and coordinate multi-agent workflows. My work focuses on **RAG**, **fine-tuning**, **quantization**, and **orchestration** to deliver reliable, scalable AI solutions.
 
